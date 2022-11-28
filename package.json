@@ -1,5 +1,5 @@
 {
-  "name": "random-number",
+  "name": "get-random-numbers-because-yes",
   "version": "1.0.0",
   "description": "Package that returns a random number because yes.",
   "main": "index.js",
@@ -11,9 +11,12 @@
     "url": "git+https://github.com/tiudvek/random-number.git"
   },
   "keywords": [
+    "gen",
     "random",
     "number",
-    "random-number"
+    "random-number",
+    "gen-random-number",
+    "tiudvek"
   ],
   "author": "tiudvek",
   "license": "MIT",
